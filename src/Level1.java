@@ -39,9 +39,6 @@ public class Level1 {
 
     }
 
-    public static void main(String[] args) {
-        int[] massive = new int[] {1, 2, 3, 5, 4, 7, 6, 121, 11, 12, 10, 9, 8};
-
-        System.out.println(MadMax(13, massive));
-    }
 }
+
+
